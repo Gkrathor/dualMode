@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7wQmK0/PxdTl+CiuoMBokf0wLN/cxuxQU/kx25TZcRZVCfNahjjmf+mZPSqqyDp8wbpvQc9YM9qRcY+8HhOMXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\gk\\DualMode\\DualMode\\DualMode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}

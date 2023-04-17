@@ -1,0 +1,24 @@
+﻿@model DualModel.Models.StudentDetailsViewModel
+@{
+    ViewBag.Title = "Student Details";
+}
+<head>
+    <title> @Model.Title </title>
+</head>
+<body>
+    <div>
+        <font color="red">
+    <h1>  @Model.Header</h1>
+    <div> Student Id:@Model.Student.StudentId</div>
+    <div> Student Name:@Model.Student.StudentName </div>
+    <div> Branch:@Model.Student.Branch</div>
+            </font>
+        <font color="blue">
+    <div>City :@Model.Address.City</div>
+    <div>State :@Model.Address.State</div>
+    <div> Country :@Model.Address.Country</div>
+            </font>
+        </div>
+</body>
+
+
